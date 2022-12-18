@@ -14,9 +14,9 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Delta10&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Delta102&show_icons=true"/>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Delta10"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Delta102"/>
   </p>
 </div>
